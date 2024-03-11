@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(165, 165, 165);
+    background-image: url(img/pp.avif;)
+
+}
+
+*{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif, dashed 10px #fff;
+   
+    
+}
+
+li{
+    /* "text-shadow" é usado para adicionar borda ao texto */
+    text-shadow: 1px 0 rgb(255, 255, 255), 0 0,5px rgb(255, 255, 255), 0,5px 0 rgb(255, 255, 255), 0 0,5px rgb(255, 255, 255);
+   text-decoration: #fff;
+   
+}
+#Informações {
+  
+}
+
+p{
+    font-size: x-large
+}
+#Experiência {
+
+}
+#Escolaridade {
+
+
+
+
+}
+#Habilidades{
+
+}
+#Idiomas{
+    
+}
