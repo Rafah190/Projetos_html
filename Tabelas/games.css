@@ -1,0 +1,130 @@
+table{
+    border-collapse: collapse ;
+}
+
+td,th{
+    border: 1px solid black;
+}
+
+#god{
+font-family: Berserker-Regular;
+color:rgba(245,246,246,255) ;
+background-color:rgb(37, 150, 190);
+text-shadow:  1px 0 rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 1px 0 rgb(0, 0, 0);
+
+}
+
+#miranha{
+    font-family: The Amazing Spider-Man;
+background-color:rgb(0, 0, 0) ;
+color: #e71c23;
+}
+
+#danca{
+font-family: ubisoftsans-bold;
+background-color: rgba(0,75,194,255);
+color: rgb(255, 255, 255);
+text-shadow:1px 0 #000000, 1px 0 #000000, 1px 0 #000000, 1px 0 #000000;
+
+}
+
+#agua{
+font-family: trajanpro-bold;
+background-color:  #00c0ff;
+color:#f42200  ;
+text-shadow:  1px 0 rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 1px 0 rgb(0, 0, 0);
+}
+
+#ben10{
+    font-family: GROBOLD;
+background-color: #30a34d;
+color: rgb(255, 255, 255);
+text-shadow: 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0);
+
+}
+
+#pou{
+    font-family: Pou-RMR6;
+background-color: #d4a162;
+}
+
+#ddd{
+font-family: Saiyan-Sans Right Oblique;
+background-color: #c96115;
+color: #dbc92d;
+text-shadow: 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0);
+
+}
+
+#drag{
+    font-family: Curse Casual;
+background-color: #5ddcf8;
+color: #6ebc41;
+text-shadow: 0.5px 0 rgb(255, 255, 255), 0.5px 0 rgb(255, 255, 255), 0.5px 0 rgb(255, 255, 255), 0.5px 0 rgb(255, 255, 255);
+}
+
+
+#naruto{
+font-family: njnaruto;
+color: #e91c10;
+background-color: #ffa407;
+text-shadow: 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0);
+
+}
+
+#tony{
+    font-family: londonfall;
+background-color: #fbb426;
+color: #ffffff;
+text-shadow: 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0), 2px 0 rgb(0, 0, 0);
+}
+
+
+
+@font-face {
+    font-family: Berserker-Regular;
+    src: url(fonts/berserker-regular-font/Berserker-Regular.otf);
+}
+@font-face {
+    font-family: The Amazing Spider-Man;
+    src: url(fonts/The\ Amazing\ Spider-Man.ttf);
+}
+@font-face {
+    font-family: ubisoftsans-bold;
+    src: url(fonts/ubisoftsans-bold.ttf);
+}
+@font-face {
+    font-family: trajanpro-bold;
+    src: url(fonts/trajanpro-bold.otf);
+}
+@font-face {
+    font-family: GROBOLD;
+    src: url(fonts/GROBOLD.ttf);
+}
+ @font-face {
+    font-family:Pou-RMR6 ;
+    src: url(fonts/Pou-RMR6.ttf);
+ }
+
+   
+
+@font-face {
+    font-family: Curse Casual;
+    src: url(fonts/Curse\ Casual.ttf);
+}
+
+@font-face {
+    font-family:njnaruto;
+    src: url(fonts/njnaruto.ttf);
+}
+
+@font-face {
+    font-family:londonfall;
+    src: url(fonts/76londonfall.ttf);
+}
+
+@font-face {
+    font-family:Saiyan-Sans Right Oblique ;
+    src: url(fonts/Saiyan-Sans\ Left\ Oblique.ttf);
+}
+
